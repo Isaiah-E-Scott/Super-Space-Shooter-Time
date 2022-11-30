@@ -1,0 +1,56 @@
+changes
+-changed from version 3.0 to 1.0
+-added warning to assets & loading screen
+-added player1, player4, & player5 hit & invincible to assets
+-added warning system
+-added buttons for settings and instructions
+-added difficulty settings
+-added neon settings
+-changed to magic falling button
+-completed menu dioramas
+-asteroids can not come 2 levels in a row
+-fixed purgatory
+-score multipliers
+-difficulty settings
+-fixed delete bullets off screen
+-add new enemies
+-add wave power up
+-add wave points
+-add explosions
+-increased chip points
+-bonus enemy showing up
+-add wave sound effect
+-enemies hit by asteroids
+-added boss music
+-fixed bonus enemy
+-fixed invincible enemy
+-added first boss
+-destroy bullets off screen
+-make app sd card readable
+-make app fullscreen
+
+To-DO
+-make an exit button
+-make enemies randomly dive bomb
+-add animated menu
+-add dynamic buttons
+-add new modes (arcade, boss rush, random)
+-add random colors
+-optimize (add new loading screens)
+-add vibration
+-revamp end of game
+-time in pause
+-clean code
+-add credits
+-unlockbles ( or shop )
+-achievements
+-fix power up hit box
+-set difficulty for bosses
+-fire rate shop bonus
+-lock some of the ships
+-pay for all of 1 power up (except invincibility)
+
+Issues
+-saving highscores
+-home screen music
+-armada 1 has no hit box
